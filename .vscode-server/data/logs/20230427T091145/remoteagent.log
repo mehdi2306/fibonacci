@@ -1,0 +1,30 @@
+[2023-04-27 09:11:45.720] [remoteagent] [info] Extension host agent started.
+[2023-04-27 09:11:45.853] [remoteagent] [info] [127.0.0.1][c0ee67a3][ManagementConnection] New connection established.
+[2023-04-27 09:11:45.854] [remoteagent] [info] [127.0.0.1][e54652e5][ExtensionHostConnection] New connection established.
+[2023-04-27 09:11:45.859] [remoteagent] [info] [127.0.0.1][e54652e5][ExtensionHostConnection] <724> Launched Extension Host Process.
+[2023-04-27 09:11:57.786] [remoteagent] [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+[2023-04-27 09:11:58.321] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools
+[2023-04-27 09:12:07.770] [remoteagent] [info] [127.0.0.1][c0ee67a3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-04-27 09:12:07.783] [remoteagent] [info] [127.0.0.1][e54652e5][ExtensionHostConnection] <724> Extension Host Process exited with code: 0, signal: null.
+[2023-04-27 09:12:07.783] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2023-04-27 09:12:13.788] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2023-04-27 09:12:13.789] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-04-27 09:12:13.895] [remoteagent] [info] [127.0.0.1][b2459008][ManagementConnection] New connection established.
+[2023-04-27 09:12:13.896] [remoteagent] [info] [127.0.0.1][386e2e11][ExtensionHostConnection] New connection established.
+[2023-04-27 09:12:13.900] [remoteagent] [info] [127.0.0.1][386e2e11][ExtensionHostConnection] <819> Launched Extension Host Process.
+[2023-04-27 09:12:16.930] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools
+[2023-04-27 09:12:18.351] [remoteagent] [error] Failed to install extension. ms-vscode.cpptools
+[2023-04-27 09:12:18.351] [remoteagent] [error] Error: getaddrinfo EAI_AGAIN ms-vscode.gallery.vsassets.io
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+[2023-04-27 09:12:36.964] [remoteagent] [error] Failed to install extension. ms-vscode.cpptools
+[2023-04-27 09:12:36.964] [remoteagent] [error] Error: getaddrinfo EAI_AGAIN ms-vscode.gallery.vsassets.io
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+[2023-04-27 09:12:59.105] [remoteagent] [info] Downloaded extension to file:///home/mehdi2306/.vscode-server/data/CachedExtensionVSIXs/f9e2eee7-857a-44f7-a69f-8ecef5155495
+[2023-04-27 09:12:59.209] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2023-04-27 09:12:59.209] [remoteagent] [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools
+[2023-04-27 09:13:12.012] [remoteagent] [info] Extracted extension to /home/mehdi2306/.vscode-server/extensions/.1c041480-e40a-4138-a070-aed8caa7c86d: ms-vscode.cpptools
+[2023-04-27 09:13:12.026] [remoteagent] [info] Renamed to /home/mehdi2306/.vscode-server/extensions/ms-vscode.cpptools-1.14.5
+[2023-04-27 09:13:12.037] [remoteagent] [info] Extracting completed. ms-vscode.cpptools
+[2023-04-27 09:13:12.037] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools
+[2023-04-27 09:17:13.789] [remoteagent] [info] New EH opened, aborting shutdown

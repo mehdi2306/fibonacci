@@ -1,0 +1,5 @@
+initialisation_tableau: initialisation_tableau.c
+	gcc -Wall -Werror -Wall -o initialisation_tableau initialisation_tableau.c
+
+test: 
+	./initialisation_tableau

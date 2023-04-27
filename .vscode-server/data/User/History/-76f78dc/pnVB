@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+int main()
+{
+    int nbr_article;
+    int prix_article;
+    int prix_total;
+    int tva;
+    int i;
+
+    printf("quelle est le nombre d'article\n");
+    scanf("%d", &nbr_article);
+
+    if (nbr_article <= 0)
+    {
+        printf("le nombre d'article n'est pas bon\n");
+        scanf("%d", &nbr_article);
+    }
+
+    for (i=0;i<nbr_article;i++)
+    {
+        printf("quelle est le prix de l'article\n");
+        scanf("%d", &nbr_article);
+        
+
+    }
+}

@@ -1,0 +1,19 @@
+[2023-02-02 09:13:00.585] [exthost] [info] Extension host with pid 914 started
+[2023-02-02 09:13:00.605] [exthost] [error] Error: EEXIST: file already exists, open '/home/mehdi2306/.vscode-server/data/User/workspaceStorage/f64bec0537be52d61305880694ab880c/vscode.lock'
+[2023-02-02 09:13:00.611] [exthost] [info] Lock '/home/mehdi2306/.vscode-server/data/User/workspaceStorage/f64bec0537be52d61305880694ab880c/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2023-02-02 09:13:00.617] [exthost] [info] Lock '/home/mehdi2306/.vscode-server/data/User/workspaceStorage/f64bec0537be52d61305880694ab880c/vscode.lock': The pid 738 appears to be gone.
+[2023-02-02 09:13:00.617] [exthost] [info] Lock '/home/mehdi2306/.vscode-server/data/User/workspaceStorage/f64bec0537be52d61305880694ab880c/vscode.lock': Deleting a stale lock.
+[2023-02-02 09:13:00.621] [exthost] [info] Lock '/home/mehdi2306/.vscode-server/data/User/workspaceStorage/f64bec0537be52d61305880694ab880c/vscode.lock': Lock acquired.
+[2023-02-02 09:13:00.912] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+[2023-02-02 09:13:01.081] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-02-02 09:13:01.086] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2023-02-02 09:13:01.090] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-02-02 09:13:01.529] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-02-02 09:13:01.607] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-02-02 09:13:01.699] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-02 09:13:01.715] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-02-02 09:13:01.721] [exthost] [info] Eager extensions activated
+[2023-02-02 09:13:02.137] [exthost] [warning] DiagnosticCollection with name 'C/C++' does already exist.
+[2023-02-02 11:48:00.757] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2023-02-02 11:48:00.758] [exthost] [info] Lock '/home/mehdi2306/.vscode-server/data/User/workspaceStorage/f64bec0537be52d61305880694ab880c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2023-02-02 11:48:00.789] [exthost] [info] Extension host with pid 914 exiting with code 0

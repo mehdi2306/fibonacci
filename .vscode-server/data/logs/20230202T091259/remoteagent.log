@@ -1,0 +1,7 @@
+[2023-02-02 09:12:59.453] [remoteagent] [info] Extension host agent started.
+[2023-02-02 09:12:59.607] [remoteagent] [info] [127.0.0.1][cac2368d][ManagementConnection] New connection established.
+[2023-02-02 09:12:59.642] [remoteagent] [info] [127.0.0.1][c0559ae7][ExtensionHostConnection] New connection established.
+[2023-02-02 09:12:59.656] [remoteagent] [info] [127.0.0.1][c0559ae7][ExtensionHostConnection] <914> Launched Extension Host Process.
+[2023-02-02 09:13:11.516] [remoteagent] [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+[2023-02-02 11:48:00.759] [remoteagent] [info] [127.0.0.1][cac2368d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

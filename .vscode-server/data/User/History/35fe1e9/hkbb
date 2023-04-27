@@ -1,0 +1,13 @@
+nombre : nbr_mots.c
+	gcc -Wall -Werror -Wall -o nbr_mots nbr_mots.c
+
+
+test: 
+	./nbr_mots
+
+nombre1 : nbr_motsv2.c
+	gcc -Wall -Werror -Wall -o nbr_motsv2 nbr_motsv2.c
+
+
+test1: 
+	./nbr_motsv2

@@ -1,0 +1,9 @@
+initialisation_tableau: initialisation_tableau.c
+	gcc -Wall -Werror -Wall -o initialisation_tableau initialisation_tableau.c
+
+test: 
+	./nbr_jour_lune
+
+lune : nbr_jour_lune.c
+gcc -Wall -Werror -Wall -o nbr_jour_lune nbr_jour_lune.c
+

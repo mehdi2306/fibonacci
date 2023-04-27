@@ -1,0 +1,6 @@
+[2023-01-31 08:50:44.819] [remoteagent] [info] Extension host agent started.
+[2023-01-31 08:50:44.956] [remoteagent] [info] [127.0.0.1][2a9e3324][ManagementConnection] New connection established.
+[2023-01-31 08:50:44.961] [remoteagent] [info] [127.0.0.1][13ba418a][ExtensionHostConnection] New connection established.
+[2023-01-31 08:50:44.967] [remoteagent] [info] [127.0.0.1][13ba418a][ExtensionHostConnection] <738> Launched Extension Host Process.
+[2023-01-31 08:50:56.879] [remoteagent] [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)

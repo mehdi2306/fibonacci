@@ -1,0 +1,10 @@
+[2023-01-30 13:46:47.972] [remoteagent] [info] Extension host agent started.
+[2023-01-30 13:46:48.096] [remoteagent] [info] [127.0.0.1][c46ed3b0][ManagementConnection] New connection established.
+[2023-01-30 13:46:48.115] [remoteagent] [info] [127.0.0.1][1e0f437b][ExtensionHostConnection] New connection established.
+[2023-01-30 13:46:48.125] [remoteagent] [info] [127.0.0.1][1e0f437b][ExtensionHostConnection] <921> Launched Extension Host Process.
+[2023-01-30 13:47:00.032] [remoteagent] [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+[2023-01-30 14:10:18.099] [remoteagent] [info] [127.0.0.1][c46ed3b0][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-01-30 14:10:18.100] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/mehdi2306/.vscode-server/bin/74b1f979648cc44d385a2286793c226e611f59e7/out/vs/server/node/server.main.js:145:7922)
+    at process.emit (node:events:526:28)

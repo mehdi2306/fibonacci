@@ -1,0 +1,12 @@
+[2023-01-30 13:46:49.251] [exthost] [info] Extension host with pid 921 started
+[2023-01-30 13:46:49.266] [exthost] [info] Lock '/home/mehdi2306/.vscode-server/data/User/workspaceStorage/f64bec0537be52d61305880694ab880c/vscode.lock': Lock acquired.
+[2023-01-30 13:46:49.317] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+[2023-01-30 13:46:49.462] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-01-30 13:46:49.475] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2023-01-30 13:46:49.482] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-01-30 13:46:49.701] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-01-30 13:46:49.792] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-01-30 13:46:49.885] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-30 13:46:49.908] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-30 13:46:49.913] [exthost] [info] Eager extensions activated
+[2023-01-30 13:46:51.592] [exthost] [warning] DiagnosticCollection with name 'C/C++' does already exist.

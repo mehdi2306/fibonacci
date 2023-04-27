@@ -1,0 +1,6 @@
+nombre : nbr_mots.c
+	gcc -Wall -Werror -Wall -o nbr_mots nbr_mots.c
+
+
+test3: 
+	./nbr_mots

@@ -1,0 +1,7 @@
+[2022-11-24 13:44:43.450] [remoteagent] [info] Extension host agent started.
+[2022-11-24 13:44:43.596] [remoteagent] [info] [127.0.0.1][5427ce51][ManagementConnection] New connection established.
+[2022-11-24 13:44:43.618] [remoteagent] [info] [127.0.0.1][e1eb184c][ExtensionHostConnection] New connection established.
+[2022-11-24 13:44:43.621] [remoteagent] [info] [127.0.0.1][e1eb184c][ExtensionHostConnection] <940> Launched Extension Host Process.
+[2022-11-24 16:44:15.196] [remoteagent] [info] [127.0.0.1][5427ce51][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-11-24 16:44:15.207] [remoteagent] [info] [127.0.0.1][e1eb184c][ExtensionHostConnection] <940> Extension Host Process exited with code: 0, signal: null.
+[2022-11-24 16:44:15.207] [remoteagent] [info] Last EH closed, waiting before shutting down

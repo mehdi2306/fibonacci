@@ -1,0 +1,5 @@
+exo1 : mehdi_aladag_exo1.c
+	gcc -Wall -Werror -Wall -o mehdi_aladag_exo1 mehdi_aladag_exo1.c
+
+test : 
+	./mehdi_aladag_exo1
